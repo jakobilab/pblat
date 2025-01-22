@@ -23,6 +23,10 @@
 # DEALINGS IN THE SOFTWARE.
 
 #CC     = gcc -p
+
+#MACHTYPE=arm64
+
+#CC=aarch64-linux-gnu-gcc
 AR     = ar
 RANLIB = ranlib
 
